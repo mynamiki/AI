@@ -3,4 +3,4 @@
 
 ## Frameworks e Pacotes usados
 - Anaconda
--- JupyterLab
+- JupyterLab
