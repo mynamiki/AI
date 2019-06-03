@@ -6,5 +6,7 @@ Artificial Intelligence and Machine Learning
 - Python
 - Anaconda
 
+## 2019 :: Segunda implantação: 6 Squads @ OLX
+
 ## 2019 :: Atualização de conhecimentos: MBA @ FIAP
 - TURMA 7IA
